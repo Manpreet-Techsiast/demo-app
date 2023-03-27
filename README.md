@@ -1,2 +1,2 @@
-# Java8Basics
-Java8 Basics Hands on Examples
+# Demo Spring Boot app
+Java and SB Basics Hands on Examples
